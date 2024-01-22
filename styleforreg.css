@@ -1,0 +1,77 @@
+div{
+    background-color: rgb(127, 255, 212);
+    border: 1px solid;
+    width: 500px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.ice {
+    width: 500px;
+    height: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -265px;
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border: none;
+    }
+}
+.vs {
+    width: 500px;
+    height: 380px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 150px 0 0 -265px;
+    
+    img {
+        max-width: 40%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border: none;
+    }
+}
+.flask {
+    width: 500px;
+    height: 375px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 600px 0 0 -265px;
+    
+    img {
+        max-width: 80%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border: none;
+    }
+}
+.dino {
+    background-color: rgb(255, 201, 14);
+    width: 500px;
+    height: 380px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 1045px 0 0 -265px;
+    
+    img {
+        max-width: 70%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border: none;
+    }
+}
+.downltxt{
+    text-align: right;
+}
